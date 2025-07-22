@@ -47,7 +47,6 @@ cp .env-example .env
 ```env
 MERAKI_API_KEY="your-meraki-api-key-here"
 MERAKI_ORG_ID="your-organization-id"  # Optional: will auto-discover if not specified
-MERAKI_BASE_URL="https://api.meraki.com/api/v1"  # Default Meraki API base URL
 ```
 
 ## Usage With Claude Desktop Client
