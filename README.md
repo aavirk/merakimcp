@@ -46,7 +46,7 @@ cp .env-example .env
 
 ```env
 MERAKI_API_KEY="your-meraki-api-key-here"
-MERAKI_ORG_ID="your-organization-id"  # Optional: will auto-discover if not specified
+MERAKI_ORG_ID="your-organization-id" 
 ```
 
 ## Usage With Claude Desktop Client
