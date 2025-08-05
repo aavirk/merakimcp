@@ -39,7 +39,7 @@ pip install -r requirements.txt
 1. Copy the example environment file:
 
 ```bash
-cp .env-example .env
+cp .env-example-meraki .env
 ```
 
 2. Update the `.env` file with your Meraki API credentials:
